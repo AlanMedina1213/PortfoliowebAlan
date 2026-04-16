@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     title: "Alan Medina | Portafolio Profesional",
     description:
       "Descubre mis proyectos en desarrollo web, IoT y diseño.",
-    url: "https://tu-dominio-aqui.com", // ⚠️ cámbialo luego
+    url: "https://portfolioweb-alan.vercel.app/", // ⚠️ cámbialo luego
     siteName: "Alan.dev",
     images: [
       {
